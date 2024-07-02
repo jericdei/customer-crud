@@ -12,5 +12,5 @@ git clone --recurse-submodules -j8 https://github.com/jericdei/customer-crud.git
 ```
 
 ### 2. Follow the instructions on each module
-- [Instructions for API](/api/README.md)
-- [Instructions for UI](/ui/README.md)
+- [Instructions for API](https://github.com/jericdei/customer-api/blob/main/README.md)
+- [Instructions for UI](https://github.com/jericdei/customer-ui/blob/master/README.md)
